@@ -21,6 +21,8 @@ Töö aluseks oli võetud Linuxi kernel aadressilt https://github.com/torvalds/l
 * kaustast _server/_ serveri pool
 
     _server.py_
+    
+* _.config_ fail on UML-i seadistus, seda ei tohiks muuta
 
 
 **Raamistiku paigutus ja seadistamine:**
@@ -70,6 +72,8 @@ The basis for this thesis was taken from https://github.com/torvalds/linux.
 * kaustast _server/_ server side
 
     _server.py_
+    
+* _.config_ UML settings file, should not be edited
     
 
 **Installing the framework:**
