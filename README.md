@@ -32,7 +32,9 @@ sudo apt-get install screen`
 4. Käivitada raamistiku serveri pool, kaustas /server käsuga `python3.5 server.py`
 5. Tekitatakse ketta pilt ning vormindatakse seda vajaliku Linuxi failisüsteemiga
 6. Kompileerida UML käsuga `make ARCH=um` ning käivitada see käsuga (tekitatud ketta pilt asendada "[virtuaalketa 2 asukoht]" asemele)
+
 ./linux mem=256M ubd0=[virtuaalketta 1 asukoht] root=/dev/ubda umid=testmasin ubd1=[virtuaalketa 2 asukoht]` 
+
 7. Uues konsoolis sisestada käsk `screen /dev/pts/Y` ,kus "/dev/pts/Y" on UML-i õnnestunud käivitamise järgselt konsooli ilmunud teated kujul "Virtual console X assigned device '/dev/pts/Y'"
 8. Kasutaja == parool == root
 9. Korrektseks UML-i peatamiseks on olemas käsk `halt`
@@ -71,7 +73,9 @@ sudo apt-get install screen`
 4. Start frameworks server part `python3.5 server.py`
 5. Create disc image with needed filesystem
 6. Compile UML with `make ARCH=um` and start it with put created disc image instead of "[dirtual disc 2 path]")
-`./linux mem=256M ubd0=[virtuaalketta 1 asukoht] root=/dev/ubda umid=testmasin ubd1=[dirtual disc 2 path]`
+`
+./linux mem=256M ubd0=[virtuaalketta 1 asukoht] root=/dev/ubda umid=testmasin ubd1=[dirtual disc 2 path]`
+
 7. Open new console and enter `screen /dev/pts/Y` where "/dev/pts/Y" is a message that appears after a successful UML initiation and the messages should look like this: "Virtual console X assigned device '/dev/pts/Y'"
 8. User == password == root
 9. A polite way to stop UML is with a `halt` command
