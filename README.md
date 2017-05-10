@@ -18,7 +18,7 @@ Töö aluseks oli võetud Linuxi kernel aadressilt https://github.com/torvalds/l
     
     _os-Linux/file.c_ kliendi lisafunktsioon
 
-* kaustast server/ serveri pool
+* kaustast _server/_ serveri pool
 
     _server.py_
 
@@ -67,7 +67,7 @@ The basis for this thesis was taken from https://github.com/torvalds/linux.
     
     _os-Linux/file.c_ client side
 
-* kaustast server/ server side
+* kaustast _server/_ server side
 
     _server.py_
     
