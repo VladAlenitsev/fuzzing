@@ -1,9 +1,9 @@
-*English below..*
+**English below..**
 
-*See on Failisüsteemi hägutestimise raamistik, mis on arendatud User-mode Linuxi peal, mis kasutas kernelit versiooniga 4.11.*
+**See on Failisüsteemi hägutestimise raamistik, mis on arendatud User-mode Linuxi peal, mis kasutas kernelit versiooniga 4.11.**
 http://user-mode-linux.sourceforge.net
 
-*Failide selgitus:*
+**Failide selgitus:**
 
 * Kaustast _arch/um/_ on UML-i ja kliendipoolsed failid
 
@@ -18,7 +18,7 @@ http://user-mode-linux.sourceforge.net
     _server.py_
 
 
-*Raamistiku paigutus ja seadistamine:*
+**Raamistiku paigutus ja seadistamine:**
 
 Esiteks läheb vaja Linuxit. Arenduses kasutati Linux Mint 18 “Sarah” – Cinnamon (64-bit), mis on vabavarana kättesaadav [kodulehelt](https://linuxmint.com/edition.php?id=217). Läheb tarvis Pythonit versiooniga 3.5. Samuti läheb tarvis programmi Screen, Linux Mint peale saab seda installida käskudega:
 
@@ -37,11 +37,11 @@ sudo apt-get install screen`
 
 ***
 
-*English here*
+**English here**
 
-*This is a File fuzz testing framework, which was developed on User-mode Linux on kernel v4.11.* http://user-mode-linux.sourceforge.net
+**This is a File fuzz testing framework, which was developed on User-mode Linux on kernel v4.11.** http://user-mode-linux.sourceforge.net
 
-*File explanation:*
+**File explanation:**
 
 * Kaustast _arch/um/_ UML and client side
 
@@ -55,7 +55,7 @@ sudo apt-get install screen`
     _server.py_
     
 
-*Installing the framework:*
+**Installing the framework:**
 
 First you need Linux. During the development a Linux Mint 18 “Sarah” – Cinnamon (64-bit) was used which can be downloaded [here](https://linuxmint.com/edition.php?id=217). You will need Python3.5. Also Screen which can be install with 
 
