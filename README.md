@@ -25,7 +25,7 @@ Töö aluseks oli võetud Linuxi kernel aadressilt https://github.com/torvalds/l
 
 **Raamistiku paigutus ja seadistamine:**
 
-Esiteks läheb vaja Linuxit. Arenduses kasutati Linux Mint 18 “Sarah” – Cinnamon (64-bit), mis on vabavarana kättesaadav [kodulehelt](https://linuxmint.com/edition.php?id=217). Läheb tarvis Pythonit versiooniga 3.5. Samuti läheb tarvis programmi Screen, Linux Mint peale saab seda installida käskudega:
+Esiteks läheb vaja Linuxit. Arenduses kasutati Linux Mint 18 “Sarah” – Cinnamon (64-bit), mis on vabavarana kättesaadav [siin](https://linuxmint.com/edition.php?id=217). Läheb tarvis Pythonit versiooniga 3.5. Samuti läheb tarvis programmi Screen, Linux Mint peale saab seda installida käskudega:
 
 `sudo apt-get update 
 
