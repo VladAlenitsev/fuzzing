@@ -1,7 +1,10 @@
 **English below..**
 
-**See on Failisüsteemi hägutestimise raamistik, mis on arendatud User-mode Linuxi peal, mis kasutas kernelit versiooniga 4.11.**
-http://user-mode-linux.sourceforge.net
+**See on Failisüsteemi hägutestimise raamistik, mis on minu arvutiteaduse bakalaureusetöö teemaks.**
+
+Juhendajad: **Meelis Roos** ja **Kristjan Krips**. 
+
+Raamistik on arendatud User-mode Linuxi peal, mis kasutas kernelit versiooniga 4.11. http://user-mode-linux.sourceforge.net
 
 **Failide selgitus:**
 
@@ -43,7 +46,12 @@ sudo apt-get install screen`
 
 **English here**
 
-**This is a File fuzz testing framework, which was developed on User-mode Linux on kernel v4.11.** http://user-mode-linux.sourceforge.net
+**This is a File fuzz testing framework, which is my BCompSc thesis.**
+
+Supervised by **Meelis Roos** and **Kristjan Krips**.
+
+
+The framework was developed on User-mode Linux on kernel v4.11. http://user-mode-linux.sourceforge.net
 
 **File explanation:**
 
