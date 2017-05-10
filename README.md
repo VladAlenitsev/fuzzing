@@ -27,9 +27,9 @@ Töö aluseks oli võetud Linuxi kernel aadressilt https://github.com/torvalds/l
 
 Esiteks läheb vaja Linuxit. Arenduses kasutati Linux Mint 18 “Sarah” – Cinnamon (64-bit), mis on vabavarana kättesaadav [siin](https://linuxmint.com/edition.php?id=217). Läheb tarvis Pythonit versiooniga 3.5. Samuti läheb tarvis programmi Screen, Linux Mint peale saab seda installida käskudega:
 
-`sudo apt-get update 
+`sudo apt-get update `
 
-sudo apt-get install screen`
+`sudo apt-get install screen`
 
 1. Tuleb laadida alla ja pakida lahti kernel, arenduses kasutati versiooni **4.11.** https://www.kernel.org/
 2. Asendada lahtipakitud failid nendega, mis on selle repositooriumis.
@@ -76,9 +76,9 @@ The basis for this thesis was taken from https://github.com/torvalds/linux.
 
 First you need Linux. During the development a Linux Mint 18 “Sarah” – Cinnamon (64-bit) was used which can be downloaded [here](https://linuxmint.com/edition.php?id=217). You will need Python3.5. Also Screen which can be install with 
 
-`sudo apt-get update
+`sudo apt-get update`
 
-sudo apt-get install screen`
+`sudo apt-get install screen`
 
 1. You will need to download and unzip kernel, development was done on version **4.11.** https://www.kernel.org/
 2. Replace unzip files with the ones in this repo.
