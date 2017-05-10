@@ -1,6 +1,6 @@
 **English below..**
 
-**See on Failisüsteemi hägutestimise raamistik, mis on minu arvutiteaduse bakalaureusetöö teemaks.**
+See on **Failisüsteemi hägutestimise raamistik**, mis on minu arvutiteaduse bakalaureusetöö teemaks.
 
 Juhendajad: **Meelis Roos** ja **Kristjan Krips**. 
 
@@ -46,7 +46,7 @@ sudo apt-get install screen`
 
 **English here**
 
-**This is a File fuzz testing framework, which is my BCompSc thesis.**
+This is a **File fuzz testing framework**, which is my BCompSc thesis.
 
 Supervised by **Meelis Roos** and **Kristjan Krips**.
 
