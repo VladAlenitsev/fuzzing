@@ -8,6 +8,8 @@ Raamistik on arendatud User-mode Linuxi peal, mis kasutas kernelit versiooniga 4
 
 **Failide selgitus:**
 
+Töö aluseks oli võetud Linuxi kernel aadressilt https://github.com/torvalds/linux.
+
 * Kaustast _arch/um/_ on UML-i ja kliendipoolsed failid
 
     _drivers/ubd_kern.c_ ketta lugemise vahelevõtmine
@@ -54,6 +56,8 @@ Supervised by **Meelis Roos** and **Kristjan Krips**.
 The framework was developed on User-mode Linux on kernel v4.11. http://user-mode-linux.sourceforge.net
 
 **File explanation:**
+
+The basis for this thesis was taken from https://github.com/torvalds/linux.
 
 * Kaustast _arch/um/_ UML and client side
 
